@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi, my name is Lily
+          Hi
         </a>
       </header>
     </div>
