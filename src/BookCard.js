@@ -1,15 +1,17 @@
 import React from "react";
+import {Col } from 'antd';
 
 export default function BookCard(props){
     return(
-    <div className="card">
-      <img src={props.imglink} alt=""/>
+    <Col span={6}>
+        <img src={props.imglink} alt=""/>
+        <h1 className="title">{props.title}</h1>
         <div className="card__details">
-            <h1 className="title">{props.title}</h1>
+            <h3 className = "author">{props.author}</h3>
             <span className="genre">{props.genre}</span>
             <p className = "description">{props.description}</p>
-            <p className = "rating">I rated this book {props.rating} out of 10</p>
+
         </div>
-    </div>
+    </Col>
     );
 }
