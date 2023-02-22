@@ -4,34 +4,32 @@
       "author": "SJ Kincaid",
       "rating": 9,
       "description": "This is a book about a humanoid creature learning what it means to be human as she tries to save the empire and everyone she loves.",
-      "genre": "Sci-fi"
+      "genre": "Sci-fi",
+      "imglink": "https://m.media-amazon.com/images/I/51o3apPLbgL._SX319_BO1,204,203,200_.jpg"
     },
     {
         "title": "The Girl Who Could Fly",
         "author": "Victoria Forester",
         "rating": 10,
         "description": "A young misfit learns she can fly...and that she is much stronger than she thinks she is.",
-        "genre": "Fantasy"
+        "genre": "Fantasy",
+        "imglink": "https://upload.wikimedia.org/wikipedia/en/6/66/The_Girl_Who_Could_Fly_Cover.jpg"
     },
     {
         "title": "The Song of Achilles",
         "author": "Madeline Miller",
         "rating": 9,
         "description": "A retelling of the myth of Achilles. His tragic upbringing, his courage during the Trojan War, and his love that spanned life and death.",
-        "genre": "Mythology"
+        "genre": "Mythology",
+        "imglink": "https://m.media-amazon.com/images/I/514aE49swxL._SX330_BO1,204,203,200_.jpg"
     },
     {
         "title": "Lost Boy",
         "author": "Christina Henry",
         "rating": 8,
         "description": "A cynical, hearbreaking take on the story of Peter Pan and the lost boys. A tale of friendship, ambition, and the cruelness of growing up.",
-        "genre": "Horror"
-    },
-    {
-        "title": "Warcross",
-        "author": "Marie Lu",
-        "rating": 7,
-        "description": "A young hacker gets sucked into a world of gaming, romance, and darkness as she seeks to uncover a sinister plan",
-        "genre": "Romance"
+        "genre": "Horror",
+        "imglink": "https://m.media-amazon.com/images/I/51ESNfBerlL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
     }
+
 ]
