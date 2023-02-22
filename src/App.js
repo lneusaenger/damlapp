@@ -1,6 +1,7 @@
 import './App.css';
 import BookCard from './BookCard';
 import { Row } from 'antd';
+import {HeartTwoTone} from '@ant-design/icons';
 
 function App(props) {
   const bookList = props.books?.map((book) =>
@@ -17,7 +18,7 @@ function App(props) {
     <div className="favbooks">
       <header className="App-header">
         <h1>
-        My Favorite Books
+        <HeartTwoTone twoToneColor="#eb2f96" /> <HeartTwoTone twoToneColor="#eb2f96" /> My Favorite Books <HeartTwoTone twoToneColor="#eb2f96" /> <HeartTwoTone twoToneColor="#eb2f96" />
         </h1>
       </header>
       <body className = "App-body">
